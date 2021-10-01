@@ -53,6 +53,16 @@ router.get("/query/:id", async function (req, res) {
 		return res.status(400).send(err.message);
 	}
 });
+router.get("/pro/:name", async function (req, res) {
+	try {
+		const getById = await Product.find({ type: req.params.name })
+			.lean()
+			.exec();
+		return res.status(200).send(getById);
+	} catch (err) {
+		return res.status(400).send(err.message);
+	}
+});
 
 // Update the products in the database
 

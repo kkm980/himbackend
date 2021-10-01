@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Back to Balance Cleanse",
-    "price": "29.95",
+    "price": 29.95,
     "type": "Blood Sugar",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Gymnema_Box_Bottle_30s_800x.png?v=1595866869",
     "description": [ "Himalaya MenstriCare supports and comforts you every month during your period, with wise, time-honored ingredients that support emotional and hormone balance and reduce your cramping, fatigue and discomfort.",
@@ -16,7 +16,7 @@
   {
     "id": "2",
     "name": "Bosswelia",
-    "price": "14.95",
+    "price": 14.95,
     "type": "Blood Sugar",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/ImmunoCare-120---Box-Bottle_800x.png?v=1595814336",
     "description": [ "The crystalized resin from the Indian Frankincense tree known as Boswellia is famous throughout herbal history for supporting muscle relaxation and aiding in joint integrity.",
@@ -27,7 +27,7 @@
   {
     "id": "3",
     "name": "Chyavanprash",
-    "price": "13.95",
+    "price": 13.95,
     "type": "Blood Sugar",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/LiverCare-90---Box-Bottle_800x.png?v=1595815918",
     "description": [ "For daily rejuvenation and energy, Chyavanprash has been used for centuries as an Ayurvedic superfood for strength, vitality, immunity and good digestion.",
@@ -38,7 +38,7 @@
   {
     "id": "4",
     "name": "MindCare",
-    "price": "22.95",
+    "price": 22.95,
     "type": "Brain & Cognitive",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Ashwagandha_BoxBottle_30_800x.jpg?v=1595860992",
     "description": [ "In our fast-paced world, focus and forgetfulness are a challenge for everybody.",
@@ -50,7 +50,7 @@
   {
     "id": "5",
     "name": "ComfortCleanse",
-    "price": "29.95",
+    "price": 29.95,
     "type": "Digestion",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-33_1024x1024.png?v=1595305772",
     "description": [ "If you're seeking gentle, reliable colon cleansing and relief from occasional constipation, and you don’t want the purging and cramping of other herbs you’ve tried.",
@@ -61,7 +61,7 @@
   {
     "id": "6",
     "name": "Organic Garlic",
-    "price": "45.95",
+    "price": 45.95,
     "type": "Digestion",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/files/HUSA-Ashwagandha-90ct-Carton_Bottle-square_grande.png?v=1607451904",
     "description": [ "All around the world in many different cultures, countries, and traditional systems of healthcare, Garlic has been used consistently for heart health, cardiovascular and immune support.",
@@ -72,7 +72,7 @@
   {
     "id": "7",
     "name": "Organic Chlorie",
-    "price": "14.95",
+    "price": 14.95,
     "type": "Digestion",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-28_a05759e7-352c-474b-8811-3cfe723bd1fb_1024x1024.png?v=1595867896",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
@@ -83,7 +83,7 @@
   {
     "id": "8",
     "name": "Organic Ashwagandha",
-    "price": "24.95",
+    "price": 24.95,
     "type": "Energy & Vitality",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Ashwagandha_BoxBottle_30_1024x1024.jpg?v=1595860992",
     "description": [ "Ashwagandha has been used for centuries for stress and energy.",
@@ -95,7 +95,7 @@
   {
     "id": "9",
     "name": "Organic Amla",
-    "price": "13.95",
+    "price": 13.95,
     "type": "Energy & Vitality",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-23_1024x1024.png?v=1595860211",
     "description": [ "As an antioxidant for immune support, India’s famous Amla fruit, also known as Amalaki or Indian Gooseberry, has been used for thousands of years for reinforcing immune cell defense and providing adaptogenic and restorative action.",
@@ -106,7 +106,7 @@
   {
     "id": "10",
     "name": "DermaCare",
-    "price": "29.95",
+    "price": 29.95,
     "type": "Hair,Skin & Nails",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-34_1024x1024.png?v=1595307275",
     "description": [ "Your inner health is reflected in your skin.",
@@ -117,7 +117,7 @@
   {
     "id": "11",
     "name": "Guggul",
-    "price": "14.95",
+    "price": 14.95,
     "type": "Heart & Cardio",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-36_1024x1024.png?v=1595866457",
     "description": [ "Not only is Guggul famous throughout history for toning digestion and supporting the liver and immune system, this dried resin extract from the Mukul Myrrh tree, with its well-known guggulsterones.",
@@ -128,7 +128,7 @@
   {
     "id": "12",
     "name": "Organic Arjuna",
-    "price": "45.95",
+    "price": 45.95,
     "type": "Heart & Cardio",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-50_1024x1024.png?v=1595860438",
     "description": [ "The famous Arjuna tree from India has long been known for its cardiovascular support",
@@ -139,7 +139,7 @@
   {
     "id": "13",
     "name": "Holy Basil",
-    "price": "12.95",
+    "price": 12.95,
     "type": "Immune Boost",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HolyBasil-30-box-bottle_1024x1024.png?v=1595867460",
     "description": [ "In Ayurveda, Holy Basil is considered sacred and special, and is often found in temple gardens to promote peaceful thoughts.",
@@ -150,7 +150,7 @@
   {
     "id": "14",
     "name": "Organic Neem",
-    "price": "14.95",
+    "price": 14.95,
     "type": "Immune Boost",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-29_b8b288dc-0127-41f6-9bc5-1cac1aedd66b_1024x1024.png?v=1595868333",
     "description": [ "In India, people have turned to Neem for centuries as a trusted internal detox herb to help clear up mild acne and to promote healthy hair, healthy skin and healthy nails.",
@@ -161,7 +161,7 @@
   {
     "id": "15",
     "name": "Orgamic Amla",
-    "price": "22.95",
+    "price": 22.95,
     "type": "Immune Boost",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-23_1024x1024.png?v=1595860211",
     "description": [ "In India, people have turned to Neem for centuries as a trusted internal detox herb to help clear up mild acne and to promote healthy hair, healthy skin and healthy nails.",
@@ -172,7 +172,7 @@
   {
     "id": "16",
     "name": "Curcumin Complete",
-    "price": "29.95",
+    "price": 29.95,
     "type": "Joint&Mobility",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-30_1024x1024.png?v=1595306962",
     "description": [ "In India, people have turned to Neem for centuries as a trusted internal detox herb to help clear up mild acne and to promote healthy hair, healthy skin and healthy nails.",
@@ -183,7 +183,7 @@
   {
     "id": "17",
     "name": "JointCare",
-    "price": "13.95",
+    "price": 13.95,
     "type": "Joint&Mobility",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/JointCare-120---Box-Bottle_1024x1024.png?v=1595814579",
     "description": [ "In India, people have turned to Neem for centuries as a trusted internal detox herb to help clear up mild acne and to promote healthy hair, healthy skin and healthy nails.",
@@ -194,7 +194,7 @@
   {
     "id": "18",
     "name": "Organic Psyllium Husk",
-    "price": "24.95",
+    "price": 24.95,
     "type": "Liver and Cleanse",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-10_a71589da-3e15-4e3f-966b-ec08d10ca3ed_1024x1024.png?v=1591028187",
     "description": [ "As an antioxidant for immune support, India’s famous Amla fruit, also known as Amalaki or Indian Gooseberry, has been used for thousands of years for reinforcing immune cell defense and providing adaptogenic and restorative action.",
@@ -205,7 +205,7 @@
   {
     "id": "20",
     "name": "RespiCare",
-    "price": "22.95",
+    "price": 22.95,
     "type": "Respiration",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-10_a71589da-3e15-4e3f-966b-ec08d10ca3ed_1024x1024.png?v=1591028187",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
@@ -216,7 +216,7 @@
   {
     "id": "21",
     "name": "Organic Ashwagandha Root Powder",
-    "price": "14.95",
+    "price": 14.95,
     "type": "Sleep",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HimalayaAshwagandhaPowder-JarFront_1024x1024.png?v=1613102441",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
@@ -227,7 +227,7 @@
   {
     "id": "22",
     "name": "ProstaCare",
-    "price": "13.95",
+    "price": 13.95,
     "type": "Men's Wellness",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/ProstaCare-120---Box-Bottle_1024x1024.png?v=1595824541",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
@@ -238,7 +238,7 @@
   {
     "id": "23",
     "name": "Hello Mood",
-    "price": "12.45",
+    "price": 12.45,
     "type": "Stress & Mood",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HUSAHELLOJOYBOX_BOTTLE_1024x1024.jpg?v=1608241956",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
@@ -249,7 +249,7 @@
   {
     "id": "24",
     "name": "Hello Peace",
-    "price": "45.95",
+    "price": 45.95,
     "type": "Stress & Mood",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HUSAHELLOPEACEBOX_BOTTLE_1024x1024.jpg?v=1608243907",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
@@ -260,7 +260,7 @@
   {
     "id": "25",
     "name": "Organic Mucuna",
-    "price": "30.99",
+    "price": 30.99,
     "type": "Stress & Mood",
     "image": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-130_1024x1024.png?v=1623100159",
     "description": [ "For healthy digestion and occasional stomach upset, people of many different countries and medicinal cultures have turned to licorice root for thousands of years.",
