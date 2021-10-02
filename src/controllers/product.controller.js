@@ -58,6 +58,25 @@ router.get("/query/:id", async function (req, res) {
         return res.status(400).send(err.message);
     }
 })
+router.get("/page/:numb", async function (req, res) {
+    try {
+        const page=req.params.numb;
+        if(page<=4){
+            const getById = await Product.find().limit(page*6).lean().exec();
+           console.log(getById);
+          return res.status(200).send(getById);
+        }
+        else{
+            const getById = await Product.find().lean().exec();
+           console.log(getById);
+          return res.status(200).send(getById);
+        }
+        
+    }
+    catch (err) {
+        return res.status(400).send(err.message);
+    }
+})
 router.get("/pro/:name", async function (req, res) {
     try {
         const getById = await Product.find({type: req.params.name}).lean().exec();
