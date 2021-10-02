@@ -11,7 +11,7 @@ const userSchema = new Schema({
     last_name: { type: String, required: true },
     email: { type: String, required: true },
     password: { type: String, required: true },
-    order_ids: [{ type: String, required: false }],
+    order_ids: [{ type: Object, required: false }],
     cart_items: [{ type: String, required: false }],
     wishlist_items: [{ type: String, required: false }],
 }, {timestamps: true, versionKey: false});
