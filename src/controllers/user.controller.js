@@ -65,6 +65,17 @@ router.post("/", async (request, response) => {
 	}
 });
 
+router.patch("/purchase/:userId", async (request, response) => {
+    try {
+        const results = await User.findByIdAndUpdate(request.params.userId, request.body, { new: true });
+        console.log(results);
+        return response.send(results);
+    }
+    catch (err) {
+        response.status(401).send(err.message);
+    }
+});
+
 router.patch("/:id", async (request, response) => {
 	try {
 		const results = await User.findByIdAndUpdate(
