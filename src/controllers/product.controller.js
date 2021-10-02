@@ -45,8 +45,6 @@ router.get("/:id", async function (req, res) {
 
 // get products by domestic Id
 
-router.get("/query/:id", async function (req, res) {
-
 router.get("/pro/:name", async function (req, res) {
 	try {
 		const getById = await Product.find({ type: req.params.name })
