@@ -1,4 +1,6 @@
 //config data
+// checking
+
 const {DEFAULT_CONNECTION_STRING, PORT, MONGOOSE_OPTIONS} = require("./config/connectionDb");
 
 //connect to express
