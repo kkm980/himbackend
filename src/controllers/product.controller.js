@@ -49,6 +49,7 @@ router.get("/:id", async function (req, res) {
 
 // get products by domestic Id
 
+<<<<<<< HEAD
 router.get("/query/:id", async function (req, res) {
     try {
         const getById = await Product.find({id: req.params.id}).lean().exec();
@@ -77,6 +78,8 @@ router.get("/page/:numb", async function (req, res) {
         return res.status(400).send(err.message);
     }
 })
+=======
+>>>>>>> 94dd6872745e2252aca21890d3c2d26df8860368
 router.get("/pro/:name", async function (req, res) {
     try {
         const getById = await Product.find({type: req.params.name}).lean().exec();
