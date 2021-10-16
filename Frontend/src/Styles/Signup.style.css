@@ -1,0 +1,48 @@
+.bodyText {
+	font-size: 1.042vw;
+	line-height: 1.528vw;
+	color: #656363;
+	margin-top: 1.389vw;
+}
+.floatRight {
+	float: right;
+}
+.form-title {
+	font-size: 1.597vw;
+	line-height: 2.361vw;
+}
+.signup-container {
+	width: 24.306vw;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+.returnStore {
+	font-size: 0.9vw;
+	line-height: 1.458vw;
+	color: black;
+	margin-top: 1.25vw;
+	margin-bottom: 1.25vw;
+}
+.inputText {
+	border: 0.1px solid #777777;
+	width: 94%;
+	padding: 0.694vw;
+}
+.newAccountInfo {
+	font-size: 1.25vw;
+	line-height: 1.875vw;
+	color: #777777;
+	margin-top: 1.25vw;
+}
+.marginTop44 {
+	margin-top: 3.056vw;
+}
+.signupMargin {
+	margin-top: 1.806vw;
+	font-weight: 500;
+}
+.btnGreen {
+	border: 0;
+	outline: 0;
+	color: white;
+}

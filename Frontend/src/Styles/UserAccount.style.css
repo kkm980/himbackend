@@ -1,0 +1,38 @@
+.userAccountContainer {
+	margin: 20px 80px;
+}
+.uaTitle {
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 52px;
+	color: #333333;
+	text-align: center;
+}
+.caSubtitle {
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 500;
+	color: #333333;
+	margin-top: 50px;
+}
+.caSubText {
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 500;
+	font-size: 23px;
+	line-height: 34px;
+	color: #333333;
+	margin-top: 50px;
+}
+.caQuery {
+	font-weight: 500;
+	font-size: 17px;
+	line-height: 25px;
+	color: #333333;
+	width: 100px;
+}
+.caQueryRes {
+	font-size: 17px;
+	line-height: 25px;
+	color: #777777;
+}

@@ -1,0 +1,20 @@
+.btnPrice {
+	background: #a3b49b;
+	padding: 10px 40px;
+	color: #fff;
+}
+.btnPrice:hover {
+	background: #66765f;
+}
+.productTileCard {
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.01em;
+	color: #656363;
+	text-align: center;
+	width: 198px;
+	overflow-wrap: wrap;
+}
+.categoryLeftSec > li {
+	list-style: none;
+}

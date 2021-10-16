@@ -1,0 +1,81 @@
+a{text-decoration:none}
+
+
+.navbar {
+	display: flex;
+	float: left;
+}
+.navlinks {
+	padding: 1.736vw 1.042vw;
+	margin: 0 1.389vw;
+	color: black;
+}
+.navIcon {
+	padding: 1.042vw;
+}
+.NavDropDown {
+	position: absolute;
+	right: 1.389vw;
+	top: 4.167vw;
+	z-index: 3;
+	background-color: #fff;
+	width: 10.417vw;
+	font-size: 1.042vw;
+	line-height: 1.528vw;
+
+	padding: 1.042vw;
+}
+.NavDropDown > a > div {
+	margin: 2px;
+	color: #858585;
+}
+.signOutBtnDrop {
+	margin: 2px;
+	color: #858585;
+}
+.nav__submenu {
+	position: absolute;
+	left: 0px;
+	top: 4.167vw;
+	z-index: 10;
+	border-top: 1px solid rgb(151, 151, 151);
+	display: none;
+	background-color: white;
+	padding: 0px 14.236vw 4.236vw 0px;
+	z-index: 3;
+	width: 100%;
+}
+.nav__submenu li {
+	list-style: none;
+	margin: 5px;
+}
+.subMenuDropDown > div {
+	margin: 1.389vw;
+	width: 12.522vw;
+}
+.nav__menu-item {
+	padding-bottom: 0.694vw;
+}
+.nav__menu-item:hover .nav__submenu {
+	display: block;
+}
+.navdropHead {
+	font-weight: bold;
+	font-size: 1.181vw;
+	line-height: 1.736vw;
+	color: #66765f;
+}
+.dropDownImage {
+	padding: 2.778vw;
+	margin-left: 5.556vw;
+}
+.btnDropFeatured {
+	padding: 0.694vw;
+	background-color: orange;
+	color: #fff;
+	font-weight: bold;
+	border: 0px;
+	font-size: 1.111vw;
+	line-height: 1.667vw;
+	margin-bottom: 1.042vw;
+}

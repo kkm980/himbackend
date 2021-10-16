@@ -1,0 +1,74 @@
+.pageHeading {
+	font-weight: 500;
+	font-size: 2.431vw;
+	line-height: 3.611vw;
+}
+
+.bodyText {
+	font-size: 1.042vw;
+	line-height: 1.528vw;
+	color: #656363;
+	margin-top: 1.389vw;
+}
+.colBlack {
+	color: #000;
+}
+.floatRight {
+	float: right;
+}
+.form-title {
+	font-size: 1.597vw;
+	line-height: 2.361vw;
+}
+.login-container {
+	width: 24.306vw;
+	margin: 0 auto;
+}
+.forgetLogin {
+	font-size: 1.597vw;
+	line-height: 1.458vw;
+	color: #6c7592;
+	margin-top: 1.25vw;
+}
+.btnGreen {
+	padding: 0.694vw 4.444vw;
+	width: 100%;
+	background: #a3b49b;
+	margin-top: 2.5vw;
+}
+.darkgreen {
+	background: #66765f;
+	margin-bottom: 20px;
+}
+.inputText {
+	border: 0;
+	width: 100%;
+	padding: 0.694vw;
+}
+.newAccountInfo {
+	font-size: 1.25vw;
+	line-height: 1.875vw;
+	color: #777777;
+	margin-top: 1.25vw;
+}
+.marginTop44 {
+	margin-top: 3.056vw;
+}
+.loginMargin {
+	margin-top: 1.806vw;
+}
+.alreadyLoggedIn {
+	text-align: center;
+	font-size: 30px;
+	margin: 20px;
+}
+.alreadyLoggedIn button {
+	background: #a3b49b;
+	padding: 10px 40px;
+	color: #fff;
+	margin: 20px;
+}
+
+.alreadyLoggedIn button:hover {
+	background: #66765f;
+}

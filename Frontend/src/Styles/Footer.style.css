@@ -1,0 +1,83 @@
+.footer {
+	/* position: absolute;
+	left: 0%;
+	right: 0%;
+	bottom: 0%; */
+	background: #eef2f0;
+	padding: 2.431vw 11.458vw;
+	letter-spacing: -0.01em;
+}
+.footerFlex {
+	display: flex;
+	justify-content: space-between;
+}
+.footerFlex > div {
+	width: 17.014vw;
+}
+.footerHead {
+	font-size: 1.181vw;
+	line-height: 1.736vw;
+	color: #333345;
+	font-weight: 500;
+}
+.footerLinks {
+	margin: 0.486vw 0;
+	font-size: 1.042vw;
+	line-height: 1.528vw;
+
+	color: #8c8f92;
+}
+.footerContact {
+	font-weight: 600;
+	font-size: 1.111vw;
+	line-height: 1.667vw;
+	margin-top: 1.458vw;
+	color: #8c8f92;
+}
+.footerContactLinks {
+	font-weight: 600;
+	font-size: 1.111vw;
+	line-height: 1.667vw;
+	margin: 0;
+	color: #a3b49b;
+}
+.footerContactInfo {
+	margin: 0;
+	font-size: 1.042vw;
+	line-height: 1.528vw;
+	letter-spacing: -0.01em;
+	color: #8c8f92;
+}
+.firstMail {
+	margin-top: 0.972vw;
+}
+.footerInput {
+	background: #eef2f0;
+	border: 0;
+	letter-spacing: -0.01em;
+	font-family: Poppins;
+	margin-top: 1.736vw;
+}
+.footerInput::-webkit-input-placeholder {
+	font-weight: 500;
+	color: #333345;
+	font-size: 1.111vw;
+	line-height: 1.667vw;
+}
+.terms {
+	font-size: 0.972vw;
+	line-height: 1.736vw;
+}
+.footerRights {
+	font-size: 0.972vw;
+	line-height: 1.458vw;
+	color: #8c8f92;
+}
+.footerEnd {
+	font-size: 0.903vw;
+	line-height: 1.319vw;
+	color: #8c8f92;
+	padding: 0.833vw 1.042vw 0.972vw;
+	border: 1px solid #a5b69e;
+	box-sizing: border-box;
+}

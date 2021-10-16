@@ -1,0 +1,43 @@
+.cartHead {
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 52px;
+	color: #333333;
+}
+.cartEmpty {
+	margin: 20px;
+	font-size: 30px;
+}
+.cartProTitle {
+	margin: 10px;
+	padding: 40px;
+}
+.width250 {
+	width: 300px;
+}
+.cartProCounter {
+	margin: 40px;
+	background-color: #eef2f0;
+}
+.cartProCounter > button {
+	background-color: #eef2f0;
+}
+.wid80 {
+	width: 80px;
+}
+.proceedPayment {
+	margin-top: 50px;
+	color: #fff;
+	width: 540px;
+	padding: 80px;
+	background: #66765f;
+	margin-left: 50%;
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 52px;
+}
+.proceedPayButton {
+	background: #a3b49b;
+	padding: 11px 110px;
+	color: #fff;
+}

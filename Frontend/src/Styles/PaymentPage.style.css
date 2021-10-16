@@ -1,0 +1,79 @@
+.expressCheckout {
+	text-align: center;
+	margin-top: 1.458vw;
+}
+.btnPay {
+	height: 2.639vw;
+	width: 11.111vw;
+	border-radius: 5px;
+	color: #fff;
+	margin-left: 5px;
+	margin-bottom: 42px;
+}
+.purple {
+	background: #5a31f4;
+}
+.yellow {
+	background: #fad676;
+}
+.black {
+	background: #000;
+}
+.contactInfo {
+	font-size: 15px;
+	line-height: 22px;
+	color: #000000;
+}
+.accountInfoPay {
+	font-size: 13px;
+	line-height: 19px;
+	color: #737373;
+	margin: 1.389vws;
+}
+.paymentSubHead {
+	margin-top: 2.083vw;
+	font-size: 1.042vw;
+	line-height: 1.528vw;
+}
+.borderInput {
+	font-size: 13px;
+	line-height: 19px;
+	color: #737373;
+	border: 1px solid #737373;
+	margin: 0.694vw;
+	padding: 0.694vw;
+}
+.inputForm {
+	border: 0;
+}
+.btnPaymentGreen {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	background: #a3b49b;
+	border-radius: 4px;
+	padding: 1.389vws;
+	margin: 0.694vw;
+	width: 12.361vw;
+	height: 58px;
+}
+.paymentAddressSec {
+	width: 37.5vw;
+}
+.threeDiv {
+	width: 9.528vw;
+}
+.paymentCartSec {
+	width: 23.611vw;
+	margin: 3.472vw;
+}
+.btnPaymentWhite {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	border-radius: 4px;
+	padding: 1.389vws;
+	margin: 0.694vw;
+	width: 12.361vw;
+	height: 4.028vw;
+}
